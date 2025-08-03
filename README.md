@@ -1,1 +1,1 @@
-# go-ring-buffer
+# goringbuffer
